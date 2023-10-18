@@ -1,0 +1,11 @@
+weather=input('how is the weather ?  ')
+
+if weather== 'rain':
+  print('grab your umbrella ☔')
+elif weather== 'cloudy':
+  print('grab your hoodie 🧥')
+elif weather == 'thunderstorm':
+  print('grab your raincoat ⛈️')
+  
+else:
+ print('grab your sun glasses 😎')
